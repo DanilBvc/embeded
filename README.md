@@ -1,3 +1,10 @@
+
+
+
+https://github.com/user-attachments/assets/c763ffc2-3106-4a0c-9362-0bc2738e6c9a
+
+
+
 # Behavioral Widget System
 
 A real-time behavioral tracking and interactive widget system for websites.
